@@ -1,0 +1,35 @@
+*{ 
+    font-family: 'Roboto', sans-serif;
+}
+
+.informacion {
+    width:  100px;
+    height: 40px;
+    background: #eee;
+}
+
+.informacion h1{ 
+    font-size: 50px;
+    text-align: center;
+    color:#67B559;
+}
+
+
+.informacion img{
+    width: 200px;
+    margin: auto;
+    display:block ;
+    border-radius: 50%;
+}
+
+.informacion h2 {
+    text-align:center ;
+    color: #2577ff;
+    background: #fff;
+    width:200px;
+    margin:auto;  
+}
+
+.informacion ul li{ 
+    display: inline;
+}
